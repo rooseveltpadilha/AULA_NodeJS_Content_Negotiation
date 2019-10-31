@@ -14,7 +14,7 @@ Após a inicialização com `yarn dev` o servidor node se inicia e no cliente ap
  1. Requisições com header (http).
  2. Tratativa de erros após solicitações.
  3. Como funciona Buffers e carregamento de páginas com content-type.
- 4. É apenas uma parte do módulo para aprendizado de uma ferramenta bem poderosa no desenvolvimento RESTFul.
+ 4. É apenas uma parte do módulo para aprendizado de uma ferramenta bem poderosa no desenvolvimento RESTFull.
 
 ****
 **OBJETIVO**
